@@ -1,0 +1,8 @@
+torch
+scikit-learn
+plotly
+numpy
+pandas
+matplotlib
+tqdm
+nbformat
